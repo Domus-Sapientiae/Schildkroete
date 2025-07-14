@@ -1,0 +1,5 @@
+#!/Users/katharine_h/Schildkroete/Python-3.13.0/../py-tkinter/bin/python3.13
+
+from idlelib.pyshell import main
+if __name__ == '__main__':
+    main()
